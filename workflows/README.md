@@ -9,3 +9,7 @@ This directory contains repeatable workflows for common engineering tasks.
 - Refactoring
 - Release
 - Incident response
+
+## Naming convention
+
+Workflow documents should use the *.workflow.md suffix so they can be located consistently.
