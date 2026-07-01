@@ -8,6 +8,7 @@ This directory contains the shared engineering standards that AEOS promotes.
 - Review standards
 - Architecture standards
 - Documentation standards
+- Testing standards
 
 ## Naming convention
 
